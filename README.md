@@ -2,14 +2,22 @@
 
 ### 🙋‍♂️ Sobre mí :
 
-- Soy estudiante de Ingeniería en Sistemas e Informática.
-- Atiendo múltiples lenguajes de programación y principios de desarrollo web, que es lo que me apasiona.
-- Manejo frameworks para el desarrollo backend como frontend.
-- Manejo librerías de diseño como Bootstrap y Tailwind CSS.
-- Conozco bases de datos tanto relacionales como no relacionales.
-- Me gusta compartir mis proyectos en redes sociales.
+<div align="right">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJlYTdtaGxveXNvdnV6MmdxYWgxN2NwODAxem1paXVmY201OGxzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif" alt="Pacman huyendo" width="220" />
+  <br />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl4bmFybDk0enI1dm11M3hic3U1Zmtmcm16cnZkZHI0MzIydHpkYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/go3pCPP4899Jd3xb4p/giphy.gif" alt="Pacman persiguiendo" width="220" />
+</div>
 
-  I like coffee ☕
+- 👨‍🎓 Soy estudiante de Ingeniería en Sistemas e Informática.
+- 💻 Atiendo múltiples lenguajes de programación y principios de desarrollo web, que es lo que me apasiona.
+- ⚙️ Manejo frameworks para el desarrollo backend como frontend.
+- 🎨 Manejo librerías de diseño como Bootstrap y Tailwind CSS.
+- 🗄️ Conozco bases de datos tanto relacionales como no relacionales.
+- 🚀 Me gusta compartir mis proyectos en redes sociales.
+
+I like coffee ☕
+
+<br clear="right" />
   
 ###  Conéctate conmigo
 
