@@ -4,14 +4,14 @@
 
 ### 🙋‍♂️ Sobre mí :
 
-- 👨‍🎓 Soy estudiante de Ingeniería en Sistemas e Informática.
-- 💻 Atiendo múltiples lenguajes de programación y principios de desarrollo web, que es lo que me apasiona.
-- ⚙️ Manejo frameworks para el desarrollo backend como frontend.
-- 🎨 Manejo librerías de diseño como Bootstrap y Tailwind CSS.
-- 🗄️ Conozco bases de datos tanto relacionales como no relacionales.
-- 🚀 Me gusta compartir mis proyectos en redes sociales.
+-  Soy estudiante de Ingeniería en Sistemas e Informática.
+-  Atiendo múltiples lenguajes de programación y principios de desarrollo web, que es lo que me apasiona.
+-  Manejo frameworks para el desarrollo backend como frontend.
+-  Manejo librerías de diseño como Bootstrap y Tailwind CSS.
+-  Conozco bases de datos tanto relacionales como no relacionales.
+-  Me gusta compartir mis proyectos en redes sociales.
 
-Me gusta el café ☕
+   I like coffee ☕
 
 <br clear="right" />
 
