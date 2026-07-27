@@ -10,7 +10,13 @@
 - Me gusta compartir mis proyectos en redes sociales.
 
   I like coffee ☕
+  
+###  Conéctate conmigo
 
+- 📱 Puedes contactarme al: **+51 924 488 934**
+- 📩 También puedes escribirme a: [nestorhugoquispesanca@gmail.com](mailto:nestorhugoquispesanca@gmail.com)
+
+---
 
 ### 🌐 Mis Redes
 
@@ -54,6 +60,6 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 *(Ramas, Merge, Pull, Push)*
 
-#### 📐 Arquitectura y Metodologías
+####  Arquitectura y Metodologías
 - **Patrones y Arquitectura:** MVC, Arquitectura Hexagonal, Patrones de Diseño.
 - **Metodologías Ágiles:** Scrum, Design Thinking.
