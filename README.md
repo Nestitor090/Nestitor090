@@ -1,10 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&width=500&lines=Hola,+soy+Nestor;%C2%A1Bienvenido+a+mi+perfil!)
 
-<div align="right">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJlYTdtaGxveXNvdnV6MmdxYWgxN2NwODAxem1paXVmY201OGxzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif" alt="Pacman 1: Huyendo" width="180" />
-  <br />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl4bmFybDk0enI1dm11M3hic3U1Zmtmcm16cnZkZHI0MzIydHpkYiZlcD12MV9naWZsX3JlbGF0ZWQmY3Q9Zw/go3pCPP4899Jd3xb4p/giphy.gif" alt="Pacman 2: Persiguiendo" width="180" />
-</div>
+<img align="right" src="https://github.com/user-attachments/assets/db029bb4-a631-4cad-ad68-b7bd42dc450c" alt="Pacman Secuencia" width="220" />
 
 ### 🙋‍♂️ Sobre mí :
 
@@ -20,7 +16,6 @@ Me gusta el café ☕
 <br clear="right" />
 
 ---
-
 ### 🤝 Conéctate conmigo
 
 - 📱 Puedes contactarme al: **+51 924 488 934**
