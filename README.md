@@ -1,5 +1,4 @@
-<!-- EFECTO MÁQUINA DE ESCRIBIR -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&width=500&lines=%C2%A1Bienvenido+a+mi+perfil!;Hola,+soy+Nestor)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&width=500&lines=Hola,+soy+Nestor;%C2%A1Bienvenido+a+mi+perfil!)
 
 ###  Sobre mí:
 
