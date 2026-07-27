@@ -14,8 +14,11 @@
 
 ### 🌐 Mis Redes
 
-<a href="nestorhugoquispesanca@gmail.com">
-  <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:nestorhugoquispesanca@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/nest_qs/" target="_blank">
+  <img src="https://img.shields.io/badge/@nest__qs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://github.com/Nestitor090" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
