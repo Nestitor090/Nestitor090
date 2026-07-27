@@ -1,30 +1,23 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&width=500&lines=Hola,+soy+Nestor;%C2%A1Bienvenido+a+mi+perfil!)
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
+<div align="right">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJlYTdtaGxveXNvdnV6MmdxYWgxN2NwODAxem1paXVmY201OGxzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif" alt="Pacman 1" width="180" />
+  <br />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl4bmFybDk0enI1dm11M3hic3U1Zmtmcm16cnZkZHI0MzIydHpkYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/go3pCPP4899Jd3xb4p/giphy.gif" alt="Pacman 2" width="180" />
+</div>
 
-<h3>🙋‍♂️ Sobre mí :</h3>
+### 🙋‍♂️ Sobre mí :
 
-<ul>
-  <li>👨‍🎓 Soy estudiante de Ingeniería en Sistemas e Informática.</li>
-  <li>💻 Atiendo múltiples lenguajes de programación y principios de desarrollo web, que es lo que me apasiona.</li>
-  <li>⚙️ Manejo frameworks para el desarrollo backend como frontend.</li>
-  <li>🎨 Manejo librerías de diseño como Bootstrap y Tailwind CSS.</li>
-  <li>🗄️ Conozco bases de datos tanto relacionales como no relacionales.</li>
-  <li>🚀 Me gusta compartir mis proyectos en redes sociales.</li>
-</ul>
+- 👨‍🎓 Soy estudiante de Ingeniería en Sistemas e Informática.
+- 💻 Atiendo múltiples lenguajes de programación y principios de desarrollo web, que es lo que me apasiona.
+- ⚙️ Manejo frameworks para el desarrollo backend como frontend.
+- 🎨 Manejo librerías de diseño como Bootstrap y Tailwind CSS.
+- 🗄️ Conozco bases de datos tanto relacionales como no relacionales.
+- 🚀 Me gusta compartir mis proyectos en redes sociales.
 
-<p>Me gusta el café ☕</p>
+Me gusta el café ☕
 
-    </td>
-    <td align="center" valign="middle" width="40%">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJlYTdtaGxveXNvdnV6MmdxYWgxN2NwODAxem1paXVmY201OGxzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif" alt="Pacman huyendo" width="180" />
-      <br /><br />
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl4bmFybDk0enI1dm11M3hic3U1Zmtmcm16cnZkZHI0MzIydHpkYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/go3pCPP4899Jd3xb4p/giphy.gif" alt="Pacman persiguiendo" width="180" />
-    </td>
-  </tr>
-</table>
+<br clear="right" />
 
 ###  Conéctate conmigo
 
