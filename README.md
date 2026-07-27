@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&width=500&lines=Hola,+soy+Nestor;%C2%A1Bienvenido+a+mi+perfil!)
 
-###  Sobre mí:
+### 🙋‍♂️ Sobre mí :
 
 - Soy estudiante de Ingeniería en Sistemas e Informática.
 - Atiendo múltiples lenguajes de programación y principios de desarrollo web, que es lo que me apasiona.
