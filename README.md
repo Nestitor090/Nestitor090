@@ -11,7 +11,7 @@
 -  Conozco bases de datos tanto relacionales como no relacionales.
 -  Me gusta compartir mis proyectos en redes sociales.
 
-Me gusta el café ☕
+   I like coffee☕
 
 <br clear="right" />
 
