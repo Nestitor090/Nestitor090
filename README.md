@@ -4,16 +4,18 @@
   <tr>
     <td valign="top" width="60%">
 
-### 🙋‍♂️ Sobre mí :
+<h3>🙋‍♂️ Sobre mí :</h3>
 
-- 👨‍🎓 Soy estudiante de Ingeniería en Sistemas e Informática.
-- 💻 Atiendo múltiples lenguajes de programación y principios de desarrollo web, que es lo que me apasiona.
-- ⚙️ Manejo frameworks para el desarrollo backend como frontend.
-- 🎨 Manejo librerías de diseño como Bootstrap y Tailwind CSS.
-- 🗄️ Conozco bases de datos tanto relacionales como no relacionales.
-- 🚀 Me gusta compartir mis proyectos en redes sociales.
+<ul>
+  <li>👨‍🎓 Soy estudiante de Ingeniería en Sistemas e Informática.</li>
+  <li>💻 Atiendo múltiples lenguajes de programación y principios de desarrollo web, que es lo que me apasiona.</li>
+  <li>⚙️ Manejo frameworks para el desarrollo backend como frontend.</li>
+  <li>🎨 Manejo librerías de diseño como Bootstrap y Tailwind CSS.</li>
+  <li>🗄️ Conozco bases de datos tanto relacionales como no relacionales.</li>
+  <li>🚀 Me gusta compartir mis proyectos en redes sociales.</li>
+</ul>
 
-Me gusta el café ☕
+<p>Me gusta el café ☕</p>
 
     </td>
     <td align="center" valign="middle" width="40%">
@@ -23,7 +25,7 @@ Me gusta el café ☕
     </td>
   </tr>
 </table>
-  
+
 ###  Conéctate conmigo
 
 - 📱 Puedes contactarme al: **+51 924 488 934**
