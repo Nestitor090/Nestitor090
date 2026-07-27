@@ -1,17 +1,17 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&width=500&lines=Hola,+soy+Nestor;%C2%A1Bienvenido+a+mi+perfil!)
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk1YmppZnBvbWpkbWZxcmN1d3IybDllemk2MmFuYW50cDlqdGU0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" alt="Pacman" width="220" />
+<img align="right" src="https://github.com/user-attachments/assets/db029bb4-a631-4cad-ad68-b7bd42dc450c" alt="Pacman Secuencia" width="220" />
 
 ### 🙋‍♂️ Sobre mí :
 
--  Soy estudiante de Ingeniería en Sistemas e Informática.
--  Atiendo múltiples lenguajes de programación y principios de desarrollo web, que es lo que me apasiona.
--  Manejo frameworks para el desarrollo backend como frontend.
--  Manejo librerías de diseño como Bootstrap y Tailwind CSS.
--  Conozco bases de datos tanto relacionales como no relacionales.
--  Me gusta compartir mis proyectos en redes sociales.
+- 👨‍🎓 Soy estudiante de Ingeniería en Sistemas e Informática.
+- 💻 Atiendo múltiples lenguajes de programación y principios de desarrollo web, que es lo que me apasiona.
+- ⚙️ Manejo frameworks para el desarrollo backend como frontend.
+- 🎨 Manejo librerías de diseño como Bootstrap y Tailwind CSS.
+- 🗄️ Conozco bases de datos tanto relacionales como no relacionales.
+- 🚀 Me gusta compartir mis proyectos en redes sociales.
 
-   I like coffee☕
+Me gusta el café ☕
 
 <br clear="right" />
 
